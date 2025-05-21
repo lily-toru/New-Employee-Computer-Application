@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="36308b8f47a1e65028da392f316d43cd" label="Computer Information" max_length="40" name="x_1755799_new_empl_computer_information" type="collection">
+        <element attributes="encode_utf8=false" label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial Number" max_length="40" name="serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Maintenance" value="maintenance"/>
+                <element inactive_on_update="false" label="Available" value="available"/>
+                <element inactive_on_update="false" label="Assigned" value="assigned"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b76ffe0f47a1e65028da392f316d43d9" label="Computer Request" max_length="40" name="x_1755799_new_empl_computer_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Computer model" max_length="40" name="computer_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Note" max_length="40" name="note" type="string"/>
+        <element attributes="encode_utf8=false" label="Request manager" mandatory="true" max_length="32" name="request_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Computer collected" max_length="40" name="computer_collected" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request status" max_length="40" name="request_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Approval" value="awaiting_approval"/>
+                <element inactive_on_update="false" label="Withdrawn" value="withdrawn"/>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Request employee" mandatory="true" max_length="32" name="request_employee" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="request_employee"/>
+        </index>
+        <index name="index2">
+            <element name="request_manager"/>
+        </index>
+    </element>
+</database>
