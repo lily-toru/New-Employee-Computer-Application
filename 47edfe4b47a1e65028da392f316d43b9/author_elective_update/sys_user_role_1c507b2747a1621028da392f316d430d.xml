@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Role for new employee applying computer</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1755799_new_empl.Manager</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Manager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 00:52:52</sys_created_on>
+        <sys_id>1c507b2747a1621028da392f316d430d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755799_new_empl.Manager</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_update_name>sys_user_role_1c507b2747a1621028da392f316d430d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 00:52:52</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</application>
+        <file_path/>
+        <instance_id>6ee249eeff956e10c80bf8e4fc4fd9c7</instance_id>
+        <instance_name>dev346879</instance_name>
+        <name>sys_user_role_1c507b2747a1621028da392f316d430d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Role for new employee applying computer</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1755799_new_empl.Manager</name><scoped_admin>false</scoped_admin><suffix>Manager</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-23 00:52:52</sys_created_on><sys_id>1c507b2747a1621028da392f316d430d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1755799_new_empl.Manager</sys_name><sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package><sys_policy/><sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope><sys_update_name>sys_user_role_1c507b2747a1621028da392f316d430d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-23 00:52:52</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>732122411</payload_hash>
+        <record_name>x_1755799_new_empl.Manager</record_name>
+        <reverted_from/>
+        <source>6fb3870347e1e65028da392f316d434e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 00:52:53</sys_created_on>
+        <sys_id>ac507b2747a1621028da392f316d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196faa0ef560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 00:52:53</sys_updated_on>
+        <type>Role</type>
+        <update_guid>90507b2716a1621051db7bdec2d1c944</update_guid>
+        <update_guid_history>90507b2716a1621051db7bdec2d1c944:732122411</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1755799_new_empl.Manager">e9c89cff4765621028da392f316d43e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 03:49:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>002eee6235a043ee815b1a5ab6686a04</sys_id>
+        <sys_metadata>1c507b2747a1621028da392f316d430d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755799_new_empl.Manager</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_scope_delete display_value="">56ed8d937d89446fbab5387ecf135b39</sys_scope_delete>
+        <sys_update_name>sys_user_role_1c507b2747a1621028da392f316d430d</sys_update_name>
+        <sys_update_version display_value="sys_user_role_1c507b2747a1621028da392f316d430d">ac507b2747a1621028da392f316d4344</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 03:49:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

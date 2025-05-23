@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Computer request information">ace4d9f747e9621028da392f316d4380</application>
+        <filter/>
+        <name>Computer request informations</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1755799_new_empl.computer_request_information_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:12:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>28e4d9f747e9621028da392f316d4384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer request informations</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_update_name>sys_ui_module_28e4d9f747e9621028da392f316d4384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:12:15</sys_updated_on>
+        <table>x_1755799_new_empl_computer_request_information</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</application>
+        <file_path/>
+        <instance_id>6ee249eeff956e10c80bf8e4fc4fd9c7</instance_id>
+        <instance_name>dev346879</instance_name>
+        <name>sys_ui_module_28e4d9f747e9621028da392f316d4384</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Computer request information">ace4d9f747e9621028da392f316d4380</application><filter/><name>Computer request informations</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1755799_new_empl.computer_request_information_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-23 08:12:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>28e4d9f747e9621028da392f316d4384</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Computer request informations</sys_name><sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package><sys_policy/><sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope><sys_update_name>sys_ui_module_28e4d9f747e9621028da392f316d4384</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-23 08:12:15</sys_updated_on><table>x_1755799_new_empl_computer_request_information</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-927525109</payload_hash>
+        <record_name>Computer request informations</record_name>
+        <reverted_from/>
+        <source>6fb3870347e1e65028da392f316d434e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:12:16</sys_created_on>
+        <sys_id>70e4d9f747e9621028da392f316d4388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196fc3333d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:12:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>24e4d9f77be96210557d20c06ea78f87</update_guid>
+        <update_guid_history>24e4d9f77be96210557d20c06ea78f87:-927525109</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:51:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>07e45d75a77143ec9fb97cd35b8357d1</sys_id>
+        <sys_metadata>28e4d9f747e9621028da392f316d4384</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer request informations</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_scope_delete display_value="">56ed8d937d89446fbab5387ecf135b39</sys_scope_delete>
+        <sys_update_name>sys_ui_module_28e4d9f747e9621028da392f316d4384</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_28e4d9f747e9621028da392f316d4384">70e4d9f747e9621028da392f316d4388</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:51:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

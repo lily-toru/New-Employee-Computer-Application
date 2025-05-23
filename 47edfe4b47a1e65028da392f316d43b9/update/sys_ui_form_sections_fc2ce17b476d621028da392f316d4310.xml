@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="fc2ce17b476d621028da392f316d4310" sys_domain="global" table="x_1755799_new_empl_computer_request_informatioin" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 09:53:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d2ce17b476d621028da392f316d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755799_new_empl_computer_request_informatioin" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">fc2ce17b476d621028da392f316d4310</sys_ui_form>
+            <sys_ui_section caption="Key Attributes" display_value="Key Attributes" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0d2ce17b476d621028da392f316d4335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 09:53:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 09:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b82ce17b476d621028da392f316d431e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755799_new_empl_computer_request_informatioin" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">fc2ce17b476d621028da392f316d4310</sys_ui_form>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">782ce17b476d621028da392f316d4313</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 09:53:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 09:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b02ce17b476d621028da392f316d432b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755799_new_empl_computer_request_informatioin" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">fc2ce17b476d621028da392f316d4310</sys_ui_form>
+            <sys_ui_section caption="Discovery Attributes" display_value="Discovery Attributes" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">782ce17b476d621028da392f316d4323</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 09:53:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 09:53:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c12ce17b476d621028da392f316d435f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755799_new_empl_computer_request_informatioin" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">fc2ce17b476d621028da392f316d4310</sys_ui_form>
+            <sys_ui_section caption="Operational Attributes" display_value="Operational Attributes" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">052ce17b476d621028da392f316d4354</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 09:53:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 09:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f02ce17b476d621028da392f316d4323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755799_new_empl_computer_request_informatioin" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">fc2ce17b476d621028da392f316d4310</sys_ui_form>
+            <sys_ui_section caption="Domain Separation Attributes" display_value="Domain Separation Attributes" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">302ce17b476d621028da392f316d431f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 09:53:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 09:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>852ce17b476d621028da392f316d4335</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755799_new_empl_computer_request_informatioin" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">fc2ce17b476d621028da392f316d4310</sys_ui_form>
+            <sys_ui_section caption="More Attributes" display_value="More Attributes" name="x_1755799_new_empl_computer_request_informatioin" sys_domain="global" view="2713005f537320100764ddeeff7b1269">382ce17b476d621028da392f316d432b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 09:53:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1755799_new_empl_computer_request_informatioin</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 09:53:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc2ce17b476d621028da392f316d4310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755799_new_empl_computer_request_informatioin</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_fc2ce17b476d621028da392f316d4310</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 09:53:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="CMDB - Workspace" name="cmdb_browse">2713005f537320100764ddeeff7b1269</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

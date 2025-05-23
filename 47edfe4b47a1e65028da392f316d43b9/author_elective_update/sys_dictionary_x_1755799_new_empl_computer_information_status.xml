@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="status" table="x_1755799_new_empl_computer_information">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>1</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Status</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>status</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1755799_new_empl_computer_information</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:05:50</sys_created_on>
+        <sys_id>cb30cb8f47a1e65028da392f316d435f</sys_id>
+        <sys_name>Status</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_update_name>sys_dictionary_x_1755799_new_empl_computer_information_status</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:05:52</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</application>
+        <file_path/>
+        <instance_id>6ee249eeff956e10c80bf8e4fc4fd9c7</instance_id>
+        <instance_name>dev346879</instance_name>
+        <name>sys_dictionary_x_1755799_new_empl_computer_information_status</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="status" table="x_1755799_new_empl_computer_information"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label>Status</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>status</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1755799_new_empl_computer_information</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 08:05:50</sys_created_on><sys_id>cb30cb8f47a1e65028da392f316d435f</sys_id><sys_name>Status</sys_name><sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package><sys_policy/><sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope><sys_update_name>sys_dictionary_x_1755799_new_empl_computer_information_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 08:05:52</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>929137207</payload_hash>
+        <record_name>Computer Information.Status</record_name>
+        <reverted_from/>
+        <source>b3edfe4b47a1e65028da392f316d43be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:05:52</sys_created_on>
+        <sys_id>6f30cb8f47a1e65028da392f316d43c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f1e0a1bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:05:52</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>2730cb8f9aa1e6503aa0fa84176e27c0</update_guid>
+        <update_guid_history>2730cb8f9aa1e6503aa0fa84176e27c0:929137207,5730cb8fa4a1e6509ec3608a7789587e:360796503,fe4c7ac79ba1e6503d66339b7484ec6b:-628802243,e0cbfa87a6a1e65040fe0fed83d3d865:733038449,13fa7a4727a1e650c40e82276a5375ff:-628802243,cc6aba0700a1e650b5c91a1ea8ac299f:733038449</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:10:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>6909f697aed84814a318d44f51ca5784</sys_id>
+        <sys_metadata>cb30cb8f47a1e65028da392f316d435f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_parent display_value="">36308b8f47a1e65028da392f316d43cd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_scope_delete display_value="">56ed8d937d89446fbab5387ecf135b39</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1755799_new_empl_computer_information_status</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1755799_new_empl_computer_information_status">6f30cb8f47a1e65028da392f316d43c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:10:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

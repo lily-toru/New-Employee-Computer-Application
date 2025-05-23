@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1755799_new_empl_computer_request</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:02:32</sys_created_on>
+        <sys_id>7e7fb24f47a1e65028da392f316d43ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755799_new_empl_computer_request</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_update_name>sys_security_acl_7e7fb24f47a1e65028da392f316d43ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:02:32</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</application>
+        <file_path/>
+        <instance_id>6ee249eeff956e10c80bf8e4fc4fd9c7</instance_id>
+        <instance_name>dev346879</instance_name>
+        <name>sys_security_acl_7e7fb24f47a1e65028da392f316d43ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_1755799_new_empl_computer_request</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 08:02:32</sys_created_on><sys_id>7e7fb24f47a1e65028da392f316d43ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1755799_new_empl_computer_request</sys_name><sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package><sys_policy/><sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope><sys_update_name>sys_security_acl_7e7fb24f47a1e65028da392f316d43ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 08:02:32</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>38123892</payload_hash>
+        <record_name>x_1755799_new_empl_computer_request</record_name>
+        <reverted_from/>
+        <source>b3edfe4b47a1e65028da392f316d43be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:02:32</sys_created_on>
+        <sys_id>fa7fb24f47a1e65028da392f316d43f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f1dd938b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:02:32</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>fe7fb24f3fa1e650096515c61328beef</update_guid>
+        <update_guid_history>fe7fb24f3fa1e650096515c61328beef:38123892</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:09:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1e7a2766b24a4b2884c69872cf3c7210</sys_id>
+        <sys_metadata>7e7fb24f47a1e65028da392f316d43ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755799_new_empl_computer_request</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_parent display_value="">c47ffe0f47a1e65028da392f316d43db</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_scope_delete display_value="">56ed8d937d89446fbab5387ecf135b39</sys_scope_delete>
+        <sys_update_name>sys_security_acl_7e7fb24f47a1e65028da392f316d43ed</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_7e7fb24f47a1e65028da392f316d43ed">fa7fb24f47a1e65028da392f316d43f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:09:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_extendable>false</is_extendable>
+        <label>Computer request information</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1755799_new_empl_computer_request_information</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Computer" name="cmdb_ci_computer">8e3156e0c851221055906c7518aa2de4</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:12:15</sys_created_on>
+        <sys_id>8e74557747e9621028da392f316d4313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer request information</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_update_name>sys_db_object_8e74557747e9621028da392f316d4313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:12:15</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1755799_new_empl.computer_request_information_user" name="x_1755799_new_empl.computer_request_information_user">6ce41db747e9621028da392f316d438e</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</application>
+        <file_path/>
+        <instance_id>6ee249eeff956e10c80bf8e4fc4fd9c7</instance_id>
+        <instance_name>dev346879</instance_name>
+        <name>sys_db_object_8e74557747e9621028da392f316d4313</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><filter_extension/><is_extendable>false</is_extendable><label>Computer request information</label><live_feed_enabled>false</live_feed_enabled><name>x_1755799_new_empl_computer_request_information</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Computer" name="cmdb_ci_computer">8e3156e0c851221055906c7518aa2de4</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-23 08:12:15</sys_created_on><sys_id>8e74557747e9621028da392f316d4313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Computer request information</sys_name><sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package><sys_policy/><sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope><sys_update_name>sys_db_object_8e74557747e9621028da392f316d4313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-23 08:12:15</sys_updated_on><update_access>false</update_access><user_role display_value="x_1755799_new_empl.computer_request_information_user" name="x_1755799_new_empl.computer_request_information_user">6ce41db747e9621028da392f316d438e</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-520819472</payload_hash>
+        <record_name>Computer request information</record_name>
+        <reverted_from/>
+        <source>6fb3870347e1e65028da392f316d434e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:12:22</sys_created_on>
+        <sys_id>5ae45df747e9621028da392f316d4333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196fc334bd70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:12:22</sys_updated_on>
+        <type>Table</type>
+        <update_guid>5ee45df7e3e96210b2457e4b22e41432</update_guid>
+        <update_guid_history>5ee45df7e3e96210b2457e4b22e41432:-520819472</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 08:51:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>63ca78d10c374a8f8a439a35412b8f89</sys_id>
+        <sys_metadata>8e74557747e9621028da392f316d4313</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer request information</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_scope_delete display_value="">56ed8d937d89446fbab5387ecf135b39</sys_scope_delete>
+        <sys_update_name>sys_db_object_8e74557747e9621028da392f316d4313</sys_update_name>
+        <sys_update_version display_value="sys_db_object_8e74557747e9621028da392f316d4313">5ae45df747e9621028da392f316d4333</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:51:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

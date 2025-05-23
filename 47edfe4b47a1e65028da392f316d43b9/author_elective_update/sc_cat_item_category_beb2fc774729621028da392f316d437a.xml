@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Computer Application for New Employee">d55034b34729621028da392f316d436c</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 05:43:02</sys_created_on>
+        <sys_id>beb2fc774729621028da392f316d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Computer Application for New Employee</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_update_name>sc_cat_item_category_beb2fc774729621028da392f316d437a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 05:43:02</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</application>
+        <file_path/>
+        <instance_id>6ee249eeff956e10c80bf8e4fc4fd9c7</instance_id>
+        <instance_name>dev346879</instance_name>
+        <name>sc_cat_item_category_beb2fc774729621028da392f316d437a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Computer Application for New Employee">d55034b34729621028da392f316d436c</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-23 05:43:02</sys_created_on><sys_id>beb2fc774729621028da392f316d437a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Computer Application for New Employee</sys_name><sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package><sys_policy/><sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope><sys_update_name>sc_cat_item_category_beb2fc774729621028da392f316d437a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-23 05:43:02</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>95551779</payload_hash>
+        <record_name>Can We Help You?.Computer Application for New Employee</record_name>
+        <reverted_from/>
+        <source>6fb3870347e1e65028da392f316d434e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 05:43:02</sys_created_on>
+        <sys_id>beb2fc774729621028da392f316d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196fbaa955e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 05:43:02</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3ab2fc775a29621093c0250db766207e</update_guid>
+        <update_guid_history>3ab2fc775a29621093c0250db766207e:95551779</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Computer Application for New Employee">5da3f4f74729621028da392f316d43d8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 05:47:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>08cc2b31be064107a3ce867fbbe9fa19</sys_id>
+        <sys_metadata>beb2fc774729621028da392f316d437a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Computer Application for New Employee</sys_name>
+        <sys_package display_value="New Employee Computer Application" source="x_1755799_new_empl">47edfe4b47a1e65028da392f316d43b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="New Employee Computer Application">47edfe4b47a1e65028da392f316d43b9</sys_scope>
+        <sys_scope_delete display_value="">56ed8d937d89446fbab5387ecf135b39</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_beb2fc774729621028da392f316d437a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_beb2fc774729621028da392f316d437a">beb2fc774729621028da392f316d438b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 05:47:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
